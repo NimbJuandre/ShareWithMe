@@ -9,6 +9,7 @@ import router from './router'
 import { QuillEditor } from '@vueup/vue-quill'
 import '@vueup/vue-quill/dist/vue-quill.snow.css';
 
+https://tiptap.dev/guide/collaborative-editing
 
 //const app = createApp(App)
 const app = initializeApp(firebaseConfig);
